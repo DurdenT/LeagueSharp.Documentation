@@ -1,0 +1,39 @@
+Hello World 
+===================
+
+If you are new at programming, your first step is know how to print a message on screen, the traditional "Hello World".
+
+----------
+How to:
+-------------
+
+Let's create a new project;
+
+> Start your Visual Studio;
+
+> Select: File, New Project;
+
+> Console Application is selected by default, keep it;
+
+> Our first program will be called "Hello World". Ok;
+
+> The new project appears in the Solution Exeplorer;
+
+Your project is created. Now it's time to code!
+
+In our Main let's write:
+
+> Console.WriteLine("Hello World!");
+>
+>// Keep the console window open in debug mode.
+>         Console.WriteLine("Press any key to exit.");
+>         Console.ReadKey();
+
+Console.WriteLine() print our message and Console.ReadKey() keep the console until any key is pressed by the user. 
+
+In C# we always finish our lines with ";"!
+In C# we comment our codes with "//"!
+
+
+
+
